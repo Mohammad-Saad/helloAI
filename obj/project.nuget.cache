@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vjCAFSpVK22PjgbH4bqwEkd7IYyvUiwbalgxFk5rqAzyvbCFWigO30EOsZ2R66DQG980DbOuIvF8iQ7OfvAbTg==",
+  "success": true,
+  "projectFilePath": "D:\\GPT3\\helloAI\\helloAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saaddmoh\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\saaddmoh\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.13\\microsoft.netcore.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\saaddmoh\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\saaddmoh\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.13\\microsoft.aspnetcore.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\saaddmoh\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.13\\microsoft.netcore.app.crossgen2.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

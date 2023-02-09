@@ -1,0 +1,17 @@
+D:\GPT3\helloAI\bin\Debug\net6.0\helloAI.exe
+D:\GPT3\helloAI\bin\Debug\net6.0\helloAI.deps.json
+D:\GPT3\helloAI\bin\Debug\net6.0\helloAI.runtimeconfig.json
+D:\GPT3\helloAI\bin\Debug\net6.0\helloAI.dll
+D:\GPT3\helloAI\bin\Debug\net6.0\ref\helloAI.dll
+D:\GPT3\helloAI\bin\Debug\net6.0\helloAI.pdb
+D:\GPT3\helloAI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GPT3\helloAI\obj\Debug\net6.0\helloAI.csproj.AssemblyReference.cache
+D:\GPT3\helloAI\obj\Debug\net6.0\helloAI.GeneratedMSBuildEditorConfig.editorconfig
+D:\GPT3\helloAI\obj\Debug\net6.0\helloAI.AssemblyInfoInputs.cache
+D:\GPT3\helloAI\obj\Debug\net6.0\helloAI.AssemblyInfo.cs
+D:\GPT3\helloAI\obj\Debug\net6.0\helloAI.csproj.CoreCompileInputs.cache
+D:\GPT3\helloAI\obj\Debug\net6.0\helloAI.csproj.CopyComplete
+D:\GPT3\helloAI\obj\Debug\net6.0\helloAI.dll
+D:\GPT3\helloAI\obj\Debug\net6.0\ref\helloAI.dll
+D:\GPT3\helloAI\obj\Debug\net6.0\helloAI.pdb
+D:\GPT3\helloAI\obj\Debug\net6.0\helloAI.genruntimeconfig.cache
